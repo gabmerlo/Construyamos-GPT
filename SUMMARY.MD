@@ -1,4 +1,8 @@
-# Summary
+# Table of contents
 
-### Parte 1
-* [Capítulo 1: Introducción](capitulos/capitulo1.md)
+* [Introducción](README.md)
+
+## Partes
+
+* [Parte 1: Introducción](partes/parte1.md)
+* [Parte 2: Tokens](partes/parte2.md)
