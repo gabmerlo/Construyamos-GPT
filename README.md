@@ -16,6 +16,7 @@ El proyecto está creado de forma que podréis hacerlo todo incluso sin saber pr
 
 En el contenido anglosajón se suele entrenar pequeños modelos usando al autor inglés más famoso, **Shakespeare**, así que como esto es una guía en español, nosotros crearemos nuestro GPT usando al autor español más famoso, **Cervantes**, y crearemos desde 0 un GPT llamado '***sancho-mini***', con el objetivo de que logre escribir poesía Cervantina sobre el Quijote.
 
+## Tabla de Contenidos 
 El proyecto está estructurado de la siguiente forma:
 ```
 
@@ -33,6 +34,10 @@ El orden a seguir para completar esta guía es el numérico indicado en la estru
 - No se necesita poseer hardware especializado
 
 Y ya estaría.
+
+
+
+
 
 ¡Nos vemos en la primera parte!:
 
