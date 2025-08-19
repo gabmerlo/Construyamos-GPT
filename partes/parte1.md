@@ -27,7 +27,10 @@ Nuestro primer objetivo es ejecutar una de estas celdas de código, y para ello,
 
 <br>
 
-![](https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/ejecutar.png)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/ejecutar.png" height="220">
+</p>
+
 
 <br>
 
@@ -52,8 +55,9 @@ Para descargarlo, solo tenéis que hacer clic en el botón de descarga que apare
 
 <br>
 
-
-<img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/descarga-archivo.png" height="320">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/descarga-archivo.png" height="320">
+</p>
 
 
 
@@ -68,7 +72,9 @@ Una vez lo tengáis en vuestro ordenador, el siguiente paso es subirlo a Collab.
 <br>
 
 
-<img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/archivos.png" height="320">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/archivos.png" height="320">
+</p>
 
 
 <br>
@@ -80,7 +86,12 @@ Una vez lo tengáis en vuestro ordenador, el siguiente paso es subirlo a Collab.
 <br>
 
 
-<img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/subir-archivos.png" height="270">
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/subir-archivos.png" height="270">
+</p>
+
+
 
 
 <br>
