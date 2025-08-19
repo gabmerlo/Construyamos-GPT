@@ -97,4 +97,4 @@ El modelo podrá ver miles de veces cómo después de una 'q' suele venir una 'u
 Ahora que ya entendemos la teoría detrás de los tokens y hemos decidido usar una tokenización por carácter, nos vamos a meter de lleno en el Google Collab para aplicarlo:
 
 
-Google Collab: https://colab.research.google.com/drive/160f-jzGGJP56_XTFourQMKkTVoZ7-Kqk#scrollTo=ncV9Oz3VITne
+Google Collab: [https://colab.research.google.com/drive/160f-jzGGJP56_XTFourQMKkTVoZ7-Kqk#scrollTo=ncV9Oz3VITne](https://colab.research.google.com/drive/160f-jzGGJP56_XTFourQMKkTVoZ7-Kqk#scrollTo=ncV9Oz3VITne)
