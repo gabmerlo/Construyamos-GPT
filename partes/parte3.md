@@ -1,4 +1,4 @@
-# Parte 3: Embeddings - dando significado a los tokens.
+# Parte 3: Embeddings
 
 En el episodio anterior, dimos el primer paso fundamental para que nuestro pequeño GPT, sancho-mini, pudiera empezar a trabajar con el lenguaje de Cervantes: convertimos el texto en números, en tokens, y ahora tenemos secuencias como `[23, 41, 38, 5]` para representar "Hola", pero si lo piensas, esto todavía siguen siendo solo números, no tienen ningún significado, nuestro modelo podrá leerlo, pero no entenderlo, no es suficiente.
 
