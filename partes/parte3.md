@@ -106,4 +106,4 @@ Repite este proceso millones de veces, y lo que empieza como un caos de números
 
 **Google Collab: Construyendo mapas de significados**
 
-Google Collab: 
+Google Collab: https://colab.research.google.com/drive/17dehMZD4q-sbGSX6ejNT_nI3qrf16TM2?usp=sharing
