@@ -5,9 +5,9 @@ Hasta ahora, en nuestro proceso para construir a `sancho-mini`, hemos creado la 
 Aquí es donde entra la segunda pieza de cualquier bloque de Transformer para un GPT: la **capa Feed-Forward** (también conocida como MLP o Multi-Layer Perceptron), que tiene el objetivo de añadir no linealidad y procesar aún más nuestra matriz. 
 
 <p align="center">
-  <img src="../assets/MLP_diagrama_.png" width="360">
+  <img src="../assets/mlp_capa.png" width="420">
 </p>
-<p align="center"><i>Sección del MLP, la más ancha an el diagrama.</i></p>
+<p align="center"><i>Sección de MLP.</i></p>
 
 <br>
 
