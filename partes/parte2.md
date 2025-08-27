@@ -5,7 +5,7 @@ Si bien un GPT puede llegar a parecer complejo, hay una idea muy simple por detr
 <br>
 
 <p align="center">
-  <img src="../assets/tokens-entrada.png" style="max-width: 300px; height: auto;">
+  <img src="../assets/tokens-entrada.png" style="max-width: 200px; height: auto;">
 </p>
 <p align="center"><i><b>Tokens </b> entrando en un GPT.</i></p>
 
