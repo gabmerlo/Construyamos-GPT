@@ -56,7 +56,7 @@ Para descargarlo, solo tenéis que hacer clic en el botón de descarga que apare
 <br>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/descarga-archivo.png" width="480">
+  <img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/descarga-archivo.png" width="440">
 </p>
 
 
@@ -73,7 +73,7 @@ Una vez lo tengáis en vuestro ordenador, el siguiente paso es subirlo a Collab.
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/archivos.png" width="270">
+  <img src="https://cdn.jsdelivr.net/gh/gabmerlo/assets-gpt@main/assets/archivos.png" width="230">
 </p>
 
 

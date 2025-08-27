@@ -9,7 +9,7 @@ Aquí es donde entran los **embeddings**, así que vamos a dejar atrás los núm
 <br>
 
 <p align="center">
-  <img src="../assets/embeddings_colores.png" width="300">
+  <img src="../assets/embeddings_colores.png" width="270">
 </p>
 <p align="center"><i>Embeddings de los colores RGB.</i></p>
 
@@ -36,7 +36,7 @@ El gran problema de esto es que, matemáticamente, todos estos "cajones" están 
 Como podemos ver en la imagen inferior, para nuestro modelo, todas las palabras serían conceptos aislados e igualmente diferentes entre sí, lo que no cual no capturaría el significado, solo la identidad.
 
 <p align="center">
-  <img src="../assets/one-hot-encoding.png" width="300">
+  <img src="../assets/one-hot-encoding.png" width="250">
 </p>
 <p align="center"><i>Ejemplo simplificado de One-Hot-Encoding. </i></p>
 
@@ -69,7 +69,7 @@ Y esto es lo que nos da varias ventajas:
 
 
 <p align="center">
-  <img src="../assets/significado.png" width="380">
+  <img src="../assets/significado.png" width="320">
 </p>
 <p align="center"><i>Las direccinoes tienen significado.</i></p>
 
@@ -86,7 +86,7 @@ La idea es simple: vamos a crear un segundo vector para cada token de la secuenc
 ¿Y Por qué sumarlos y no multiplicarlos o concatenarlos? Pues porque la suma es como coger el punto de "Husky" en nuestro mapa de significados y desplazarlo un poquito en una dirección concreta que significa "estoy al principio de la frase". Así, el vector "Husky" al principio de una frase será ligeramente distinto al vector "Husky" en mitad de una frase, dándole a la red la pista que necesita para entender el orden sin destruir el significado original.
 
 <p align="center">
-  <img src="../assets/positional_embeddings.png" width="370">
+  <img src="../assets/positional_embeddings.png" width="320">
 </p>
 <p align="center"><i>El vector de Husky es alterado para representar mejor su significado con su posición.</i></p>
 
