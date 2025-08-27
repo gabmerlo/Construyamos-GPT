@@ -5,7 +5,7 @@ Hasta ahora, en nuestro proceso para construir a `sancho-mini`, hemos creado la 
 Aquí es donde entra la segunda pieza de cualquier bloque de Transformer para un GPT: la **capa Feed-Forward** (también conocida como MLP o Multi-Layer Perceptron), que tiene el objetivo de añadir no linealidad y procesar aún más nuestra matriz. 
 
 <p align="center">
-  <img src="../assets/MLP_diagrama_.png" height="320">
+  <img src="../assets/MLP_diagrama_.png" style="max-width: 400px; height: auto;">
 </p>
 <p align="center"><i>Sección del MLP, la más ancha an el diagrama.</i></p>
 
@@ -30,7 +30,7 @@ En nuestra red neuronal, esto lo hacemos con una capa lineal que expande la dime
 
 
 <p align="center">
-  <img src="../assets/expansion.png" height="280">
+  <img src="../assets/expansion.png" style="max-width: 320px; height: auto;">
 </p>
 <p align="center"><i>n_embd * 4</i></p>
 
@@ -46,7 +46,7 @@ Aquí es donde entra una función de activación no lineal como ReLU (Rectified 
 Sin este paso, toda nuestra red neuronal sería una simple sucesión de operaciones matemáticas lineales, y no podríamos aprender patrones muy complejos.
 
 <p align="center">
-  <img src="../assets/ReLU.png" height="280">
+  <img src="../assets/ReLU.png" style="max-width: 220px; height: auto;">
 </p>
 <p align="center"><i>Igualando a 0 las características que no se activan con suficiente fuerza (ReLU), (GELU también es una opción, y permite algunos números negativos).</i></p>
 
@@ -59,7 +59,7 @@ Ahora que nuestro especialista ha filtrado y se ha quedado solo con las piezas m
 Para ello, usamos otra capa lineal, esta capa toma las 128 dimensiones filtradas y aprende la mejor manera de combinarlas para proyectarlas de vuelta al tamaño original de nuestro embedding (`n_embd`), es decir, a 32 dimensiones en nuestro ejemplo. Es un "reconstructor de significado" que coge los patrones activados y los condensa en una nueva representación del token, mucho más rica y sofisticada que la original.
 
 <p align="center">
-  <img src="../assets/proceso_mlp.png" height="160">
+  <img src="../assets/proceso_mlp.png" style="max-width: 500px; height: auto;">
 </p>
 <p align="center"><i>El proceso de deconstrucción y construcción refinada de nuestro nuevo motor (el proceso a grandes rasgos que sigue una capa de MLP).</i></p>
 

@@ -9,7 +9,7 @@ Solo pensad en el viaje que hace un solo token dentro de nuestro GPT, desde que 
 Poniendo un ejemplo extremo, si en cada paso multiplicamos los números por, digamos, 1.5, al cabo de 25 pasos tendremos un número astronómico. Y si los multiplicamos por 0.5, al final no quedará prácticamente nada, se habrán desvanecido. Y lo que suele ocurrir, es que si no estabilizamos de alguna forma esto, el entrenamiento de nuestro GPT se vuelve menos eficaz, y más lento.
 
 <p align="center">
-  <img src="../assets/multiplicaciones_matriciales.png" height="100">
+  <img src="../assets/multiplicaciones_matriciales.png" style="max-width: 520px; height: auto;">
 </p>
 <p align="center"><i>Muchas multiplicaciones matriciales, muchas oportunidades de que perdamos estabilidad.</i></p>
 
@@ -35,7 +35,7 @@ Imagina al corredor número 2:
 Esto es el ***Internal Covariate Shift***: cada capa intenta aprender sobre un terreno (los datos que le llegan de la capa anterior) que no para de moverse, se transforma en un entrenamiento lento e inestable, donde cada capa trata de apuntar a un objetivo en constante movimiento (problemas).
 
 <p align="center">
-  <img src="../assets/relevos.png" height="240">
+  <img src="../assets/relevos.png" style="max-width: 380px; height: auto;">
 </p>
 <p align="center"><i>Como una carrera de relevos</i></p>
 
@@ -62,7 +62,7 @@ Hay un segundo problema, que todavía no tenéis que entender del todo, de hecho
 Recomiendo ver el vídeo para esta parte, porque muestro lo que ocurre con esta función de la que tanto dependemos, si tenemos valores internamente no estabilizados, y es que se trata de una función exponencial, por lo que si introducimos valores cada vez más grandes por ejemplo, estos pueden hasta llegar a llevarse el **100% de la atención**. Lo cual nos haría perder la capacidad de combinar el contexto, y básicamente el mecanismo que hace tan potentes a los Transformers se rompería.
 
 <p align="center">
-  <img src="../assets/softmax_ido.png" height="240">
+  <img src="../assets/softmax_ido.png" style="max-width: 380px; height: auto;">
 </p>
 <p align="center"><i>Solo con un valor como 10, a pesar de tener otros como 6, o 3, el token equivalente al logit de 10 monopolizaría toda la atención, llevándose el 98% de esta, esto no es bueno.</i></p>
 

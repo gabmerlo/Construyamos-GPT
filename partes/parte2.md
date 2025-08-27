@@ -5,7 +5,7 @@ Si bien un GPT puede llegar a parecer complejo, hay una idea muy simple por detr
 <br>
 
 <p align="center">
-  <img src="../assets/tokens-entrada.png" height="270">
+  <img src="../assets/tokens-entrada.png" style="max-width: 300px; height: auto;">
 </p>
 <p align="center"><i><b>Tokens </b> entrando en un GPT.</i></p>
 
@@ -18,7 +18,7 @@ Un carácter, como la letra 'A' que ves en una pantalla o en un cubo cuando apre
 <br>
 
 <p align="center">
-  <img src="../assets/imagen_atomica.png" height="220">
+  <img src="../assets/imagen_atomica.png" style="max-width: 380px; height: auto;">
 </p>
 <p align="center"><i>Imagen atómica de alta resolución (lo que veríamos tanto en el carácter 'A' como en una silla).</i></p>
 
@@ -33,7 +33,7 @@ Este proceso de conversión se llama ***tokenización***.
 <br>
 
 <p align="center">
-  <img src="../assets/operaciones.svg" height="220">
+  <img src="../assets/operaciones.svg" style="max-width: 270px; height: auto;">
 </p>
 <p align="center"><i>Sin formato numérico, no podríamos realizar ninguna operación.</i></p>
 
@@ -48,7 +48,7 @@ Existen varias estrategias para 'tokenizar' un texto, y la elección depende muc
 <br>
 
 <p align="center">
-  <img src="../assets/word-level.png" height="100">
+  <img src="../assets/word-level.png" style="max-width: 270px; height: auto;">
 </p>
 <p align="center"><i>Tokenización word-level.</i></p>
 
@@ -59,7 +59,7 @@ Existen varias estrategias para 'tokenizar' un texto, y la elección depende muc
 <br>
 
 <p align="center">
-  <img src="../assets/character-level.png" height="80">
+  <img src="../assets/character-level.png" style="max-width: 160px; height: auto;">
 </p>
 <p align="center"><i>Tokenización character-level.</i></p>
 
@@ -69,7 +69,7 @@ Existen varias estrategias para 'tokenizar' un texto, y la elección depende muc
 3. Tokenización por sub-palabra (Subword-level): Un punto intermedio muy popular. Algoritmos como Byte-Pair Encoding (BPE) dividen las palabras en trozos más pequeños y frecuentes. Por ejemplo, "tokenización" podría convertirse en ['token', 'ización'].
 
 <p align="center">
-  <img src="../assets/subword-level.png" height="130">
+  <img src="../assets/subword-level.png" style="max-width: 240px; height: auto;">
 </p>
 <p align="center"><i>Tokenización subword-level.</i></p>
 
