@@ -9,7 +9,7 @@ Aquí es donde entran los **embeddings**, así que vamos a dejar atrás los núm
 <br>
 
 <p align="center">
-  <img src="../assets/embeddings_colores.png" style="max-width: 290px; height: auto;">
+  <img src="../assets/embeddings_colores.png" width="300">
 </p>
 <p align="center"><i>Embeddings de los colores RGB.</i></p>
 
@@ -36,7 +36,7 @@ El gran problema de esto es que, matemáticamente, todos estos "cajones" están 
 Como podemos ver en la imagen inferior, para nuestro modelo, todas las palabras serían conceptos aislados e igualmente diferentes entre sí, lo que no cual no capturaría el significado, solo la identidad.
 
 <p align="center">
-  <img src="../assets/one-hot-encoding.png" style="max-width: 280px; height: auto;">
+  <img src="../assets/one-hot-encoding.png" width="300">
 </p>
 <p align="center"><i>Ejemplo simplificado de One-Hot-Encoding. </i></p>
 
@@ -49,7 +49,7 @@ La siguiente idea fue algo mejor, (pero no mucho mejor tampoco), y consistió en
 El problema es que este enfoque es demasiado rígido y es un trabajo manual infinito. ¿Cómo defines la relación sutil entre "rey" y "poder"? ¿O entre "agua" y "tristeza"? Sumado al problema de que el lenguaje cambia constantemente, y este sistema no puede aprender por sí mismo, ya que es manual.
 
 <p align="center">
-  <img src="../assets/wordnet_perro.png" style="max-width: 500px; height: auto;">
+  <img src="../assets/wordnet_perro.png" width="600">
 </p>
 <p align="center"><i>El concepto de perro en WordNet.</i></p>
 
@@ -69,7 +69,7 @@ Y esto es lo que nos da varias ventajas:
 
 
 <p align="center">
-  <img src="../assets/significado.png" style="max-width: 360px; height: auto;">
+  <img src="../assets/significado.png" width="380">
 </p>
 <p align="center"><i>Las direccinoes tienen significado.</i></p>
 
@@ -86,7 +86,7 @@ La idea es simple: vamos a crear un segundo vector para cada token de la secuenc
 ¿Y Por qué sumarlos y no multiplicarlos o concatenarlos? Pues porque la suma es como coger el punto de "Husky" en nuestro mapa de significados y desplazarlo un poquito en una dirección concreta que significa "estoy al principio de la frase". Así, el vector "Husky" al principio de una frase será ligeramente distinto al vector "Husky" en mitad de una frase, dándole a la red la pista que necesita para entender el orden sin destruir el significado original.
 
 <p align="center">
-  <img src="../assets/positional_embeddings.png" style="max-width: 320px; height: auto;">
+  <img src="../assets/positional_embeddings.png" width="370">
 </p>
 <p align="center"><i>El vector de Husky es alterado para representar mejor su significado con su posición.</i></p>
 

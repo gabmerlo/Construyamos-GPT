@@ -3,7 +3,7 @@
 Bueno, ya hemos visto cómo un GPT entienda los caracteres, como números y que cada uno de esos números tiene una representación rica en significado con los embeddings, pero ahora nos enfrentamos a nuestro siguiente muro, y es que estos vectores normalizados de embeddings, no se hablan entre sí, viven aislados en islas de significado, y para generar texto, queremos entender todo el significado a la vez, ¿no?
 
 <p align="center">
-  <img src="../assets/attention.png" style="max-width: 370px; height: auto;">
+  <img src="../assets/attention.png" width="400">
 </p>
 <p align="center"><i>Nuestro reto: entender todo el contexto a la vez, para poder escribir el siguiente token.</i></p>
 
@@ -26,7 +26,7 @@ Como no pueden gritar, tienen este sistema para comunicarse:
 El mecanismo de Self-Attention no es más que formalizar este proceso: cada token de nuestra secuencia emitirá una Query, una Key y un Value a partir de su propio embedding.
 
 <p align="center">
-  <img src="../assets/vectores_attention.png" style="max-width: 360px; height: auto;">
+  <img src="../assets/vectores_attention.png" width="340">
 </p>
 <p align="center"><i>Producimos los vectores k,q y v</i></p>
 
@@ -43,7 +43,7 @@ Pues como son vectores, podemos usar una operación matemática que ya conocemos
 Lo que haremos será que cada token calcule este producto escalar de su Query con la Key de ***todos*** los demás tokens de la secuencia (incluido él mismo), para obtener un resultado que será una matriz de puntuaciones, o `wei` (de *weights*, pesos), donde cada fila representa un token y cada columna nos dice la "afinidad" que ese token tiene con todos los demás.
 
 <p align="center">
-  <img src="../assets/dot_product.png" style="max-width: 380px; height: auto;">
+  <img src="../assets/dot_product.png" width="370">
 </p>
 <p align="center"><i>Producto escalar entre el vector verde y el negro (resultado mayor, más similares), y entre el vector azul y el negro (resultado menor, menos similares).</i></p>
 
@@ -57,7 +57,7 @@ Ahora, solo hay dos pequeños detalles técnicos que ajustar a estas puntuacione
 <br>
 
 <p align="center">
-  <img src="../assets/enmascaramiento.png" style="max-width: 520px; height: auto;">
+  <img src="../assets/enmascaramiento.png" width="600">
 </p>
 <p align="center"><i>Enmascarado de una matriz.</i></p>
 
@@ -74,7 +74,7 @@ Para esto usamos una función que vimos en la anterior parte, llamada **Softmax*
 <br>
 
 <p align="center">
-  <img src="../assets/softmax.png" style="max-width: 220px; height: auto;">
+  <img src="../assets/softmax.png" width="280">
 </p>
 <p align="center"><i>Función Softmax</i></p>
 
@@ -96,7 +96,7 @@ El token ha hablado con sus vecinos y ahora tiene una comprensión mucho más pr
 <br>
 
 <p align="center">
-  <img src="../assets/vector_final.png" style="max-width: 460px; height: auto;">
+  <img src="../assets/vector_final.png" width="430">
 </p>
 <p align="center"><i>Vector final con contexto extra. (coche + azul -> coche_azul)</i></p>
 
@@ -120,7 +120,7 @@ Y al final, como si se tratase de un trabajo en grupo en el que se ha dividido l
 <br>
 
 <p align="center">
-  <img src="../assets/multi_head.png" style="max-width: 220px; height: auto;">
+  <img src="../assets/multi_head.png" width="220">
 </p>
 <p align="center"><i>Cada cabeza con sus propios resultados, esta imagen muestra justo el paso anterior a que sean unificadas por la capa de proyección.</i></p>
 
