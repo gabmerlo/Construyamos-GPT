@@ -1,4 +1,4 @@
-<|startofpoem|>
+<|inicio|>
 Tú, que imitaste la llorosa vida
 que tuve, ausente y desdeñado, sobre
 el gran ribazo de la Peña Pobre.
@@ -15,9 +15,9 @@ sus cabellos aguije el bello Apolo
 
 Tendrás claro renombre de valiente;
 tu patria será en todas la primera,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 tu sabio autor al mundo único y solo.
 
 Rompí, corté, abollé, y dije, y hice
@@ -33,9 +33,9 @@ y el duelo en cualquier punto satisfice.
 Tuve a mis pies postrada la fortuna.
 Y trajo del copete mi cordura
 a la calva ocasión al estricote.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Mas, aunque sobre el cuerno de la luna
 siempre se vio encumbrada mi ventura,
 tus proezas envidio, oh gran Quijote
@@ -53,9 +53,9 @@ mirara alguna desigual pelea
 Oh quién tan castamente se escapara
 del señor Amadís, como tú hiciste
 del comedido hidalgo Don Quijote
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Que así envidiada fuera, y no envidiara,
 y fuera alegre al tiempo que fue triste,
 y gozara los gustos sin escote.
@@ -71,9 +71,9 @@ la llaneza escudera, con que acuso
 al soberbio, que intenta hollar la luna.
 
 Envidio a tu jumento y a tu nombre,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 y a tus alforjas igualmente envidio,
 que mostraron tu cuerda providencia.
 
@@ -90,9 +90,9 @@ Orlando soy, Quijote, que, perdido
 por Angélica, vi remotos mares,
 ofreciendo a la fama en sus altares
 aquel valor que respetó el olvido.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 No puede ser tu igual; que este decoro
 se debe a tus proezas y a tu fama
 puesto que, como yo, perdiste el seso;
@@ -109,9 +109,9 @@ Que rayo fue do nace y muere el día.
 Imperios desprecié; y la monarquía,
 que me ofreció el Oriente rojo en vano,
 dejé, por ver el rostro soberano
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 de Claridiana, aurora hermosa mía.
 
 Améla por milagro único y raro;
@@ -129,9 +129,9 @@ por home de obras viles y soeces.
 
 Serán vuestras hazañas los joeces,
 pues tuertos desfaciendo habéis andado,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 siendo vegadas mil apaleado
 por follones cautivos y raheces.
 
@@ -149,9 +149,9 @@ Pues, qué es de la cebada y de la paja
 No me deja mi amo ni un bocado.
 
 Anda, señor, que estáis muy mal criado,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 pues vuestra lengua de asno al amo ultraja.
 Asno se es de la cuna o la mortaja.
 Queréis verlo Miradlo enamorado.
@@ -172,9 +172,9 @@ al género más duro de tormento.
 Pero si Amor es dios, es argumento
 que nada ignora, y es razón muy buena
 que un dios no sea cruel. Pues quién ordena
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 el terrible dolor que adoro y siento
 
 Si digo que sois vos, Fili, no acierto;
@@ -195,9 +195,9 @@ entre benditas almas en el cielo,
 subiste alegre a las empíreas salas,
 
 desde allá, cuando quieres, no señalas
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 la justa paz cubierta con un velo,
 por quien a veces se trasluce el celo
 de buenas obras que, a la fin, son malas.
@@ -216,9 +216,9 @@ la pobre cuenta de mis ricos males
 estoy al cielo y a mi Clori dando.
 
 Y al tiempo cuando el sol se va mostrando
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 por las rosadas puertas orientales,
 con suspiros y acentos desiguales
 voy la antigua querella renovando.
@@ -239,9 +239,9 @@ verme a tus pies, oh bella ingrata, muerto
 antes que de adorarte arrepentido.
 
 Podré yo verme en la región de olvido,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 de vida y gloria y de favor desierto,
 y allí verse podrá en mi pecho abierto
 cómo tu hermoso rostro está esculpido.
@@ -260,9 +260,9 @@ las almas santas de tres mil soldados
 subieron vivas a mejor morada,
 
 siendo primero, en vano, ejercitada
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 la fuerza de sus brazos esforzados,
 hasta que, al fin, de pocos y cansados,
 dieron la vida al filo de la espada.
@@ -274,9 +274,9 @@ en los pasados siglos y presentes.
 Mas no más justas de su duro seno
 habrán al claro cielo almas subido,
 ni aun él sostuvo cuerpos tan valientes.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 El calvatrueno que adornó a la Mancha
 de más despojos que Jasón de Creta,
 el juicio que tuvo la veleta
@@ -294,9 +294,9 @@ estribando en su amor y bizarría,
 el que hizo callar los Belianises,
 aquél que en Rocinante errando anduvo,
 yace debajo de esta losa fría.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Esta que veis de rostro amondongado,
 alta de pechos y ademán brioso,
 es Dulcinea, reina del Toboso,
@@ -314,9 +314,9 @@ andante caballero, en tiernos años,
 ella dejó, muriendo, de ser bella
 y él, aunque queda en mármoles escrito,
 no pudo huir de amor, iras y engaños.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 En el soberbio trono diamantino
 que con sangrientas plantas huella Marte,
 frenético el manchego su estandarte
@@ -329,9 +329,9 @@ un nuevo estilo al nuevo paladino.
 
 Y si de su Amadís se precia Gaula,
 por cuyos bravos descendiente Grecia
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 triunfó mil veces y su fama ensancha,
 
 hoy a Quijote le corona el aula
@@ -346,9 +346,9 @@ Sancho Panza es aquéste, en cuerpo chico,
 pero grande en valor, milagro extraño
 Escudero el más simple y sin engaño
 que tuvo el mundo, os juro y certifico.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 De ser conde, no estuvo en un tantico,
 si no se conjuraran en su daño
 insolencias y agravios del tacaño
@@ -366,9 +366,9 @@ Dadme, señora, un término que siga,
 conforme a vuestra voluntad cortado;
 que será de la mía así estimado,
 que por jamás un punto de él desdiga.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Si gustáis que callando mi fatiga
 muera, contadme ya por acabado;
 si queréis que os la cuente en desusado
@@ -388,9 +388,9 @@ el Caballero del Bosque a don Quijote y Sancho
 El muro rompe la doncella hermosa
 que de Píramo abrió el gallardo pecho;
 parte el amor de Chipre, y va derecho
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 a ver la quiebra estrecha y prodigiosa.
 
 Habla el silencio allí, porque no osa
@@ -409,9 +409,9 @@ una espada, un sepulcro, una memoria.
 En El Quijote, Segunda parte, capítulo XVIII
 Don Lorenzo a Don Quijote,
 este soneto a la fábula de Píramo y Tisbe
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 A Lope de Vega
 por su segunda edición de La Dragontea,
 
@@ -432,9 +432,9 @@ la santa multitud de los amores;
 y así, con gusto y general provecho,
 nuevos frutos ofrece cada día,
 de ángeles, de armas, santos y pastores.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Voto a Dios que me espanta esta grandeza
 y que diera un doblón por describilla;
 porque a quién no sorprende y maravilla
@@ -451,9 +451,9 @@ la gloria donde vive eternamente.
 
 Esto oyó un valentón y dijo Esto es cierto
 cuanto dice voacé, seor soldado,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 y quien dijere lo contrario, miente.
 
 Y luego, incontinente,
@@ -469,9 +469,9 @@ y, ardiendo en ira y en honroso celo,
 de los cuerpos la fuerza ejercitaste,
 que en propia y sangre ajena coloraste
 el mar vecino y arenoso suelo;
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 primero que el valor faltó a la vida
 en los cansados brazos, que, muriendo,
 con ser vencidos, llevan la victoria.
@@ -491,9 +491,9 @@ Y al tiempo cuando el sol se va mostrando
 por las rosadas puertas orientales,
 con suspiros y acentos desiguales
 voy la antigua querella renovando.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Y cuando el sol, de su estrellado asiento
 derechos rayos a la tierra envía,
 el llanto crece y doblo los gemidos.
@@ -509,9 +509,9 @@ Un valentón de espátula y gregüesco
 que a la muerte mil vidas sacrifica,
 cansado del oficio de la pica
 mas no del ejercicio picaresco;
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 retorciendo el mostacho soldadesco,
 por ver que ya su bolsa le repica,
 a un corrillo llegó de gente rica
@@ -527,9 +527,9 @@ si limosna que pide nunca alcanza,
 Qué es lo que suele hacer en tal querella
 
 Respondió el bravonel Irme sin ella.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Serenísima reina, en quien se halla
 lo que Dios pudo dar a un ser humano;
 amparo universal del ser cristiano,
@@ -547,9 +547,9 @@ si ya en divino viese convertirse
 Que, en ser mortal, habrá de acobardarse,
 y así le va mejor sentir callando
 aquello que es difícil de decirse.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Aquí el valor de la española tierra,
 aquí la flor de la francesa gente,
 aquí quien concordó lo diferente,
@@ -567,9 +567,9 @@ la muerte lleva siempre la victoria;
 también mirad la bienaventuranza
 que goza nuestra reina esclarecida
 en el eterno reino de la gloria.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Oh cuán claras señales habéis dado,
 alto Bartolomeo de Rufino,
 que de Parnaso y Ménalo el camino
@@ -587,9 +587,9 @@ os podéis levantar seguramente,
 oscureciendo al gran Livio romano,
 dando de vuestras obras tanta lumbre
 que bien merezca el lauro vuestra frente.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Si, así como de vuestro mal se canta
 en esta verdadera, clara historia
 se oyera de cristianos la victoria,
@@ -607,9 +607,9 @@ en esta breve suma está cifrado.
 Feliz ingenio, venturosa mano,
 que, entre pesador yerros apretado,
 tal arte y tal virtud en sí contiene
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Ya que del ciego dios habéis cantado
 el bien y el mal, la dulce fuerza y arte,
 en la primera y la segunda parte,
@@ -627,9 +627,9 @@ que al más alto deseo satisfacen;
 y, con dar menos de lo más que encubren,
 a este menos lo que es más se inclina
 del bien que Apolo y Minerva hacen.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Oh venturosa, levantada pluma
 que en la empresa más alta te ocupaste
 que el mundo pudo, y que al fin mostraste
@@ -647,9 +647,9 @@ que tanto bien goza en esta historia,
 en quien envidia o tiempo no harán quiebra;
 antes hará con justo celo el cielo
 eterna más que el tiempo su memoria
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Muestra su ingenio el que es pintor curioso
 cuando pinta al desnudo una figura,
 donde la traza, el arte y compostura
@@ -666,9 +666,9 @@ en soberana silla colocado;
 
 los colores las llagas que tuviste
 tanto las suben que se admira el suelo,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 y el pintor en la obra se ha pagado.
 
 El casto ardor de una amorosa llama,
@@ -686,9 +686,9 @@ vuestro, felice López Maldonado,
 del moreno etíope al cita blanco
 
 y hará que en balde de laurel honroso
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 espere alguno verse coronado
 si no os imita y tiene por su blanco.
 
@@ -705,9 +705,9 @@ ser en su calidad tan excelente.
 El que navega por el golfo insano
 del mar de pretensiones verá al punto
 del cortesano laberinto el hilo.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Felice ingenio y venturosa mano
 que el deleite y provecho puso junto
 en juego alegre, en dulce y claro estilo
@@ -725,9 +725,9 @@ tiempo, será en sus fines infinita
 felice en el sujeto que escogiste,
 dichoso en la ocasión que te dio el cielo
 de dar a Virgen el virgíneo canto;
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 venturoso también porque hiciste
 que den las musas del hispano suelo
 admiración al griego, al turco espanto.
@@ -744,9 +744,9 @@ contento y risa del enfermo lloro;
 
 que por tu industria una deshecha piedra
 mil mármoles, mil bronces a tu fama
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 dará sin envidiosas competencias;
 
 darate el cielo palma, el suelo yedra,
@@ -764,9 +764,9 @@ a par del griego y escritor toscano,
 sus sienes ciñe con la verde planta;
 
 y fue muy justa prevención del cielo
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 que a un tiempo ejercitases tú la espada
 y él su prudente y verdadera pluma,
 
@@ -786,9 +786,9 @@ hubo de plumas muchedumbre tanta
 que en menos de catorce o quince días
 volaron sus pigmeos y Golías,
 y cayó su edificio por la planta.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Bramó el Becerro y púsolos en sarta;
 tronó la tierra, escureciose el cielo,
 amenazando una total rüina;
@@ -807,9 +807,9 @@ El que subió por sendas nunca usadas
 del sacro monte a la más alta cumbre;
 el que a una Luz se hizo todo lumbre
 y lágrimas, en dulce voz cantadas;
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 el que con culta vena las sagradas
 de Elicón y Pirene en muchedumbre
 libre de toda humana pesadumbre
@@ -827,9 +827,9 @@ En la memoria vive de las gentes,
 varón famoso, siglos infinitos,
 premio que le merecen tus escritos
 por graves, puros, castos y excelentes.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Las ansias en honesta llama ardientes,
 los Ethnas, los Estigios, los Cozitos
 que en ellos suavemente van descritos,
@@ -845,9 +845,9 @@ tal vez le alcancen amorosas culpas.
 
 Jamás en el jardín de Falerina
 ni en la Pranasa, excesible cuesta,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 se vio Rosel ni rosa cual es ésta
 por quien gimió la maga Dragontina;
 
@@ -865,9 +865,9 @@ y la muerte, que a todo humano sorbe,
 sola esta rosa vaya eternizando.
 
 De Turia el cisne más famoso hoy canta,
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 y no para acabar la dulce vida,
 que en sus divinas obras escondida
 a los tiempos y edades se adelanta;
@@ -884,9 +884,9 @@ según el vuelo de tus bellas alas,
 grabadas por la Fama en mármol pario
 y en lágrimas de bronce, harán que goces
 siglo de eternidad, Yangüe de Salas.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 En vuestra sin igual, dulce armonía,
 hermosísima Alfonsa, nos reserva
 la nueva, la sin par sacra Minerva
@@ -904,9 +904,9 @@ que os hacen parecer ángel divino;
 y así conviene que tal vez el velo
 alcéis y descubráis esa luz pura
 que nos pone del cielo en el camino.
-<|endofpoem|>
+<|fin|>
 
-<|startofpoem|>
+<|inicio|>
 Pues veis que no me han dado algún soneto
 que ilustre de este libro la portada
 venid vos, pluma mía mal cortada,
@@ -926,4 +926,4 @@ de sal un panecillo por lo menos,
 que yo os lo marco por vendible, y basta.
 
 En el prólogo de Viaje al Parnaso
-<|endofpoem|>
+<|fin|>
