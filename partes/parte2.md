@@ -1,4 +1,7 @@
-# Parte 2: Tokens
+# Parte 2: Tokens / Inicio Construcción
+
+Google Collab Principal:
+[https://colab.research.google.com/drive/15COK7eW-1l0yaVwqeBM78nJ56mHGJmlf?usp=sharing](https://colab.research.google.com/drive/15COK7eW-1l0yaVwqeBM78nJ56mHGJmlf?usp=sharing)
 
 Si bien un GPT puede llegar a parecer complejo, hay una idea muy simple por detrás, justo a su inicio, que es la que vamos a explorar en esta parte: ***los Tokens***.
 
