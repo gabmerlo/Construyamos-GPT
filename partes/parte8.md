@@ -28,10 +28,6 @@ Como no entrenamos con un solo ejemplo, sino con miles o millones, lo que hacemo
 
 El proceso de entrenamiento se basa en el cálculo de derivadas parciales de la loss respecto a cada uno de los millones de parámetros del modelo, y como la arquitectura es una composición de muchas funciones (capas), usamos la **regla de la cadena** para propagar el gradiente desde la salida hasta cada parámetro, este proceso se llama **backpropagation**, y es el que permite que el modelo sepa en qué dirección y cuánto debe ajustar cada peso para mejorar la predicción, así que en cada paso de entrenamiento, calculamos la loss, propagamos el gradiente hacia atrás y actualizamos los parámetros usando un **optimizer** (como Adam o SGD), que es el encargado de aplicar estos cambios de forma eficiente.
 
-<p align="center">
-  <img src="../assets/backpropagation.png" width="400">
-</p>
-<p align="center"><i>Diagrama del proceso de backpropagation, mostrando cómo el gradiente fluye desde la loss hacia los parámetros.</i></p>
 
 ## Set de entrenamiento, set de validación y generalización
 
