@@ -104,6 +104,3 @@ Pero calculando el error (la "loss") y usando un algoritmo llamado retropropagac
 
 Repite este proceso millones de veces, y lo que empieza como un caos de números aleatorios se organiza mágicamente en ese mapa coherente de significados y posiciones que le da al GPT la capacidad de asignar significado.
 
-**Google Collab: Construyendo mapas de significados**
-
-Google Collab: https://colab.research.google.com/drive/17dehMZD4q-sbGSX6ejNT_nI3qrf16TM2?usp=sharing

@@ -12,6 +12,7 @@ Para aprender estas dos cosas que necesitaremos, lo haremos juntos dentro de la 
 [https://colab.research.google.com/drive/15COK7eW-1l0yaVwqeBM78nJ56mHGJmlf?usp=sharing](https://colab.research.google.com/drive/15COK7eW-1l0yaVwqeBM78nJ56mHGJmlf?usp=sharing)
 
 
+
 Dentro de ese Collab, os guiaré paso a paso para que aprendáis dos cosas fundamentales:
 
 **1. Ejecutar una celda de código.**  

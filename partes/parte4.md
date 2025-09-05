@@ -126,6 +126,3 @@ La operación final es `(x_normalizado * γ) + β`.
 
 Y este vector `y`, estabilizado pero recalibrado, es el que realmente pasará a la siguiente capa, la de Self-Attention, asegurando que el entrenamiento sea suave y estable, pero las capas LayerNorm no solo las usaremos antes de la primera capa de atención, será un recurso que usaremos constantemente a lo largo de nuestro GPT.
 
-## Añadiendo LayerNorm a `sancho-mini`
-
-Google Collab: 
